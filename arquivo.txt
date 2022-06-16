@@ -13,7 +13,7 @@ Código fonte apresentado no curso de Java gratuito do blog loiane.com
 * Link das aulas do eclipse: [clique aqui](https://github.com/loiane/curso-java-basico/tree/master/eclipse/curso-java-basico/src/com/loiane/cursojava)
 * Link das aulas do netbeans [clique aqui](https://github.com/loiane/curso-java-basico/tree/master/netbeans/curso-java-basico/src/com/loiane/cursojava)
 
-### Listas de exercícios
+### Listas de exercícios:pencil:
 
 * Exercícios Aulas 11 12 13 https://pt2.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13
 * Exercicios Aulas 14 15 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-14-15
